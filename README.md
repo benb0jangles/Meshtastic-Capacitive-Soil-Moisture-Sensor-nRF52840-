@@ -1,5 +1,8 @@
 # Meshtastic Capacitive Soil Moisture Sensor (nRF52840)
 
+![meshtastic_android_image](https://github.com/benb0jangles/Meshtastic-Capacitive-Soil-Moisture-Sensor-nRF52840-/blob/main/img/Screenshot_20260118-073227.jpg)
+
+
 This project adds capacitive soil moisture sensing capability to Meshtastic firmware using a Seeed XIAO nRF52840 with an I2C soil moisture sensor module.
 
 ## Overview
