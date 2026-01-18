@@ -36,10 +36,6 @@ meshtastic --set telemetry.environment_screen_enabled true
 
 ### Sensor Calibration
 
-The capacitive soil moisture sensor typically outputs:
-- **Higher voltage (~2.5-3.0V)** when dry (in air)
-- **Lower voltage (~1.0-1.5V)** when wet (in water)
-
 Default calibration values in the firmware:
 - Dry voltage: 3.0V (0% moisture)
 - Wet voltage: 1.2V (100% moisture)
